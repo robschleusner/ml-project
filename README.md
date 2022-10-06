@@ -1,4 +1,4 @@
-# ml-project
+# Credit Card Fraud Detection
 
 ### Introduction / Background:
 
