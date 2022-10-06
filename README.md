@@ -12,7 +12,9 @@
 
 ### Proposed Timeline:
 
-### Contribution Table
+Our Gantt chart can be found [here](https://docs.google.com/spreadsheets/d/1r6GNta5fQibvYkbXJCRdFy63RRoSbyJd/edit?usp=sharing&ouid=117811764220714896416&rtpof=true&sd=true)
+
+### Contribution Table:
 
 | Team Member | Contribution |
 |---|---:|
