@@ -13,7 +13,7 @@ Unsupervised Learning:
 
 K-Means Clustering:
 
-	Once we have reduced the dimensionality of our data, we will cluster based on the transaction amounts; with k = 3, high, medium, and low transaction amounts (Dornadula et al., 2019). We will also run the algorithm with simply 2 clusters and try to compare between the two values of K to see which one performs better, implementing the elbow method. 
+	Once we have scraped our data, we will cluster based on the transaction amounts; with k = 3, high, medium, and low transaction amounts (Dornadula et al., 2019). We will also run the algorithm with simply 2 clusters and try to compare between the two values of K to see which one performs better, implementing the elbow method. 
   
 Local Outlier Factoring (LOF)
 
