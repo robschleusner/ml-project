@@ -50,8 +50,8 @@ Our Gantt chart can be found [here](https://docs.google.com/spreadsheets/d/1r6GN
 
 | Team Member | Contribution |
 |---|---:|
-|Samantha Burger|   |
-|Olivia Lawson |   |
-|Munim Riddhi|   |
-|Rob Schleusner |   |
-|Samuel Wysocki|   |
+|Samantha Burger| Methods + Potential Results and Discussion + Video |
+|Olivia Lawson | Introduction + Background + Potential Results and Discussion + Gantt Chart + Video|
+|Munim Riddhi| Methods + Video |
+|Rob Schleusner | Github Page + Video |
+|Samuel Wysocki| Problem Definition + Video |
