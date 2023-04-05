@@ -45,13 +45,3 @@ Vaishali, Vaishali. (2014). Fraud Detection in Credit Card by Clustering Approac
 ### Proposed Timeline:
 
 Our Gantt chart can be found [here](https://docs.google.com/spreadsheets/d/1r6GNta5fQibvYkbXJCRdFy63RRoSbyJd/edit?usp=sharing&ouid=117811764220714896416&rtpof=true&sd=true)
-
-### Contribution Table:
-
-| Team Member | Contribution |
-|---|---:|
-|Samantha Burger| Methods + Potential Results and Discussion + Video |
-|Olivia Lawson | Introduction + Background + Potential Results and Discussion + Gantt Chart + Video|
-|Munim Riddhi| Methods + Video |
-|Rob Schleusner | Github Page + Video |
-|Samuel Wysocki| Problem Definition + Video |
